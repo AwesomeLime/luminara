@@ -1,8 +1,8 @@
 {
   "channels": {
     "main": {
-      "ver": "2506",
-      "build": "2500"
+      "ver": "2506a",
+      "build": "2506"
     },
     "dev": {
       "ver": "2312",
